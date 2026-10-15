@@ -1,0 +1,418 @@
+production_month,terminal_stream,liquid_type,production_barrels,unit,source,data_status
+2025-01-01,BONNY,"Crude Oil",7570173,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,BONNY,"Crude Oil",5892185,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,BONNY,"Crude Oil",7360738,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,BONNY,"Crude Oil",7079233,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,BONNY,"Crude Oil",6673050,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,BONNY,"Crude Oil",6625912,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,BONNY,"Crude Oil",7567542,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,BONNY,"Crude Oil",5850190,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,BONNY,"Crude Oil",5924385,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,BONNY,"Crude Oil",7535315,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,BONNY,"Crude Oil",7751499,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,BONNY,"Crude Oil",7884015,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,BONNY,Condensate,574015,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,BONNY,Condensate,475882,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,BONNY,Condensate,290820,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,BONNY,Condensate,326253,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,BONNY,Condensate,423241,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,BONNY,Condensate,542024,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,BONNY,Condensate,507637,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,BONNY,Condensate,418278,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,BONNY,Condensate,393815,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,BONNY,Condensate,399509,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,BONNY,Condensate,419547,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,BONNY,Condensate,406781,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,BRASS,"Crude Oil",860312,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,BRASS,"Crude Oil",726912,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,BRASS,"Crude Oil",937437,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,BRASS,"Crude Oil",619261,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,BRASS,"Crude Oil",857711,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,BRASS,"Crude Oil",710231,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,BRASS,"Crude Oil",820821,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,BRASS,"Crude Oil",846393,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,BRASS,"Crude Oil",935010,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,BRASS,"Crude Oil",946439,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,BRASS,"Crude Oil",981254,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,BRASS,"Crude Oil",914165,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,BRASS,Condensate,190629,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,BRASS,Condensate,149116,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,BRASS,Condensate,180191,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,BRASS,Condensate,127826,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,BRASS,Condensate,175028,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,BRASS,Condensate,167744,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,BRASS,Condensate,294502,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,BRASS,Condensate,309192,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,BRASS,Condensate,217677,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,BRASS,Condensate,220768,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,BRASS,Condensate,225872,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,BRASS,Condensate,265032,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,"QUA IBOE","Crude Oil",4580997,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,"QUA IBOE","Crude Oil",4227836,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,"QUA IBOE","Crude Oil",3504376,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,"QUA IBOE","Crude Oil",4296506,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,"QUA IBOE","Crude Oil",4921690,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,"QUA IBOE","Crude Oil",5036322,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,"QUA IBOE","Crude Oil",4503690,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,"QUA IBOE","Crude Oil",4946259,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,"QUA IBOE","Crude Oil",4640056,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,"QUA IBOE","Crude Oil",2683665,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,"QUA IBOE","Crude Oil",3980764,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,"QUA IBOE","Crude Oil",5074619,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,"QUA IBOE",Condensate,55999,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,"QUA IBOE",Condensate,55197,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,"QUA IBOE",Condensate,56460,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,"QUA IBOE",Condensate,55062,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,"QUA IBOE",Condensate,53306,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,"QUA IBOE",Condensate,53284,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,"QUA IBOE",Condensate,47463,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,"QUA IBOE",Condensate,50510,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,"QUA IBOE",Condensate,48737,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,"QUA IBOE",Condensate,49125,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,"QUA IBOE",Condensate,53963,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,"QUA IBOE",Condensate,50759,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,FORCADOS,"Crude Oil",7997419,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,FORCADOS,"Crude Oil",6919400,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,FORCADOS,"Crude Oil",5798465,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,FORCADOS,"Crude Oil",8409659,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,FORCADOS,"Crude Oil",7089537,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,FORCADOS,"Crude Oil",7901129,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,FORCADOS,"Crude Oil",8059799,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,FORCADOS,"Crude Oil",8084121,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,FORCADOS,"Crude Oil",6853852,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,FORCADOS,"Crude Oil",8585208,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,FORCADOS,"Crude Oil",8327198,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,FORCADOS,"Crude Oil",8509954,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reconciled_from_monthly_total
+2025-01-01,FORCADOS,Condensate,864644,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,FORCADOS,Condensate,832417,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,FORCADOS,Condensate,977791,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,FORCADOS,Condensate,947916,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,FORCADOS,Condensate,987103,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,FORCADOS,Condensate,944443,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,FORCADOS,Condensate,980016,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,FORCADOS,Condensate,915239,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,FORCADOS,Condensate,673607,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,FORCADOS,Condensate,823815,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,FORCADOS,Condensate,795295,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,"ESCRAVOS (Oil Terminal)","Crude Oil",4261436,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,"ESCRAVOS (Oil Terminal)","Crude Oil",3794400,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,"ESCRAVOS (Oil Terminal)","Crude Oil",4186992,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,"ESCRAVOS (Oil Terminal)","Crude Oil",4082589,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,"ESCRAVOS (Oil Terminal)","Crude Oil",4439405,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,"ESCRAVOS (Oil Terminal)","Crude Oil",4047894,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,"ESCRAVOS (Oil Terminal)","Crude Oil",4335432,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,"ESCRAVOS (Oil Terminal)","Crude Oil",4080954,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,"ESCRAVOS (Oil Terminal)","Crude Oil",4129694,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,"ESCRAVOS (Oil Terminal)","Crude Oil",4329068,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,"ESCRAVOS (Oil Terminal)","Crude Oil",3829825,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,"ESCRAVOS (Oil Terminal)","Crude Oil",4091466,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,"ESCRAVOS (Oil Terminal)",Condensate,218992,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,"ESCRAVOS (Oil Terminal)",Condensate,82573,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,"ESCRAVOS (Oil Terminal)",Condensate,220154,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,"ESCRAVOS (Oil Terminal)",Condensate,219894,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,"ESCRAVOS (Oil Terminal)",Condensate,130940,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,"ESCRAVOS (Oil Terminal)",Condensate,123762,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,"ESCRAVOS (Oil Terminal)",Condensate,137946,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,"ESCRAVOS (Oil Terminal)",Condensate,107005,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,"ESCRAVOS (Oil Terminal)",Condensate,121687,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,"ESCRAVOS (Oil Terminal)",Condensate,111949,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,"ESCRAVOS (Oil Terminal)",Condensate,300431,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,"ESCRAVOS (Oil Terminal)",Condensate,90173,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,"ODUDU (AMENAM BLEND)","Crude Oil",2324122,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,"ODUDU (AMENAM BLEND)","Crude Oil",2063093,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,"ODUDU (AMENAM BLEND)","Crude Oil",2313424,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,"ODUDU (AMENAM BLEND)","Crude Oil",2106782,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,"ODUDU (AMENAM BLEND)","Crude Oil",1890759,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,"ODUDU (AMENAM BLEND)","Crude Oil",2061295,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,"ODUDU (AMENAM BLEND)","Crude Oil",2124883,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,"ODUDU (AMENAM BLEND)","Crude Oil",1846043,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,"ODUDU (AMENAM BLEND)","Crude Oil",2005854,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,"ODUDU (AMENAM BLEND)","Crude Oil",2111519,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,"ODUDU (AMENAM BLEND)","Crude Oil",1888702,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,"ODUDU (AMENAM BLEND)","Crude Oil",1970777,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,"ODUDU (AMENAM BLEND)",Condensate,5934,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,"ODUDU (AMENAM BLEND)",Condensate,4508,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,"ODUDU (AMENAM BLEND)",Condensate,5221,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,"ODUDU (AMENAM BLEND)",Condensate,4865,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,"ODUDU (AMENAM BLEND)",Condensate,5043,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,"ODUDU (AMENAM BLEND)",Condensate,4438,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,"ODUDU (AMENAM BLEND)",Condensate,4741,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,"ODUDU (AMENAM BLEND)",Condensate,4741,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,"ODUDU (AMENAM BLEND)",Condensate,4590,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,"ODUDU (AMENAM BLEND)",Condensate,4666,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,"ODUDU (AMENAM BLEND)",Condensate,4565,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,"ODUDU (AMENAM BLEND)",Condensate,4616,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,"TULJA - OKWUIBOME","Crude Oil",2260611,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,"TULJA - OKWUIBOME","Crude Oil",1899107,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,"TULJA - OKWUIBOME","Crude Oil",2110574,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,"TULJA - OKWUIBOME","Crude Oil",2065631,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,"TULJA - OKWUIBOME","Crude Oil",2119797,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,"TULJA - OKWUIBOME","Crude Oil",2024726,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,"TULJA - OKWUIBOME","Crude Oil",2080781,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,"TULJA - OKWUIBOME","Crude Oil",2009287,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,"TULJA - OKWUIBOME","Crude Oil",1627130,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,"TULJA - OKWUIBOME","Crude Oil",1581339,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,"TULJA - OKWUIBOME","Crude Oil",1591292,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,"TULJA - OKWUIBOME","Crude Oil",1561674,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,"OKORO (Ex Ima Terminal)","Crude Oil",168432,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,"OKORO (Ex Ima Terminal)","Crude Oil",141970,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,"OKORO (Ex Ima Terminal)","Crude Oil",160308,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,"OKORO (Ex Ima Terminal)","Crude Oil",158837,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,"OKORO (Ex Ima Terminal)","Crude Oil",154386,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,"OKORO (Ex Ima Terminal)","Crude Oil",143657,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,"OKORO (Ex Ima Terminal)","Crude Oil",137526,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,"OKORO (Ex Ima Terminal)","Crude Oil",72429,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,"OKORO (Ex Ima Terminal)","Crude Oil",134175,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,"OKORO (Ex Ima Terminal)","Crude Oil",147289,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,"OKORO (Ex Ima Terminal)","Crude Oil",145562,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,"OKORO (Ex Ima Terminal)","Crude Oil",163212,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,"OTAKPIPO (Ex Ima Terminal)","Crude Oil",210114,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,"OTAKPIPO (Ex Ima Terminal)","Crude Oil",125233,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,"OTAKPIPO (Ex Ima Terminal)","Crude Oil",114411,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,"OTAKPIPO (Ex Ima Terminal)","Crude Oil",148290,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,"OTAKPIPO (Ex Ima Terminal)","Crude Oil",212252,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,"OTAKPIPO (Ex Ima Terminal)","Crude Oil",220666,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,"OTAKPIPO (Ex Ima Terminal)","Crude Oil",185672,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,"OTAKPIPO (Ex Ima Terminal)","Crude Oil",215945,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,"OTAKPIPO (Ex Ima Terminal)","Crude Oil",206713,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,"OTAKPIPO (Ex Ima Terminal)","Crude Oil",204048,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,"OTAKPIPO (Ex Ima Terminal)","Crude Oil",194965,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,"OTAKPIPO (Ex Ima Terminal)","Crude Oil",199316,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,ANTAN,"Crude Oil",264704,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,ANTAN,"Crude Oil",233546,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,ANTAN,"Crude Oil",257473,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,ANTAN,"Crude Oil",167148,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,ANTAN,"Crude Oil",177763,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,ANTAN,"Crude Oil",198236,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,ANTAN,"Crude Oil",161708,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,ANTAN,"Crude Oil",151628,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,ANTAN,"Crude Oil",145910,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,ANTAN,"Crude Oil",167509,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,ANTAN,"Crude Oil",29839,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,ANTAN,"Crude Oil",136740,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,OKONO,"Crude Oil",368016,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,OKONO,"Crude Oil",328620,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,OKONO,"Crude Oil",341155,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,OKONO,"Crude Oil",332322,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,OKONO,"Crude Oil",341073,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,OKONO,"Crude Oil",325350,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,OKONO,"Crude Oil",313118,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,OKONO,"Crude Oil",276264,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,OKONO,"Crude Oil",300620,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,OKONO,"Crude Oil",311506,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,OKONO,"Crude Oil",223297,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,OKONO,"Crude Oil",208877,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,YOHO,"Crude Oil",841110,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,YOHO,"Crude Oil",735301,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,YOHO,"Crude Oil",812328,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,YOHO,"Crude Oil",806886,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,YOHO,"Crude Oil",732578,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,YOHO,"Crude Oil",783002,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,YOHO,"Crude Oil",808663,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,YOHO,"Crude Oil",803395,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,YOHO,"Crude Oil",645913,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,OKWORI,"Crude Oil",129477,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,OKWORI,"Crude Oil",86686,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,OKWORI,"Crude Oil",86918,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,OKWORI,"Crude Oil",78706,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,OKWORI,"Crude Oil",77801,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,OKWORI,"Crude Oil",73065,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,OKWORI,"Crude Oil",68244,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,OKWORI,"Crude Oil",68706,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,OKWORI,"Crude Oil",61706,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,OKWORI,"Crude Oil",74535,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,OKWORI,"Crude Oil",47038,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,OKWORI,"Crude Oil",70616,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,EBOK,"Crude Oil",283239,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,EBOK,"Crude Oil",278452,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,EBOK,"Crude Oil",286394,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,EBOK,"Crude Oil",275731,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,EBOK,"Crude Oil",296667,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,EBOK,"Crude Oil",280451,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,EBOK,"Crude Oil",298184,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,EBOK,"Crude Oil",308011,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,EBOK,"Crude Oil",282152,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,EBOK,"Crude Oil",292223,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,EBOK,"Crude Oil",117096,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,EBOK,"Crude Oil",271376,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,AJAPA,"Crude Oil",120796,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,AJAPA,"Crude Oil",40447,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,AJAPA,"Crude Oil",26327,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,AJAPA,"Crude Oil",28623,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,AJAPA,"Crude Oil",82996,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,AJAPA,"Crude Oil",37631,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,AJAPA,"Crude Oil",38156,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,AJAPA,"Crude Oil",77500,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,AJAPA,"Crude Oil",76666,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,AJAPA,"Crude Oil",45488,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,AJAPA,"Crude Oil",67198,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,BONGA,"Crude Oil",4016863,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,BONGA,"Crude Oil",3689442,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,BONGA,"Crude Oil",3905815,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,BONGA,"Crude Oil",3692392,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,BONGA,"Crude Oil",3678389,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,BONGA,"Crude Oil",3531538,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,BONGA,"Crude Oil",3684667,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,BONGA,"Crude Oil",3454658,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,BONGA,"Crude Oil",3240435,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,BONGA,"Crude Oil",3705503,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,BONGA,"Crude Oil",3772460,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,BONGA,"Crude Oil",3800029,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,ERHA,"Crude Oil",2180775,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,ERHA,"Crude Oil",1814482,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,ERHA,"Crude Oil",2244465,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,ERHA,"Crude Oil",1853711,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,ERHA,"Crude Oil",2074660,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,ERHA,"Crude Oil",2083548,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,ERHA,"Crude Oil",2232772,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,ERHA,"Crude Oil",2280798,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,ERHA,"Crude Oil",2162424,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,ERHA,"Crude Oil",2228593,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,ERHA,"Crude Oil",1670786,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,ERHA,"Crude Oil",348698,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,USAN,"Crude Oil",1009371,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,USAN,"Crude Oil",1095734,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,USAN,"Crude Oil",896037,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,USAN,"Crude Oil",1051648,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,USAN,"Crude Oil",1054246,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,USAN,"Crude Oil",1048737,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,USAN,"Crude Oil",841578,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,USAN,"Crude Oil",848681,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,USAN,"Crude Oil",655744,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,USAN,"Crude Oil",185463,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,USAN,"Crude Oil",715920,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,USAN,"Crude Oil",772998,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,EGINA,"Crude Oil",2154382,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,EGINA,"Crude Oil",1865708,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,EGINA,"Crude Oil",2201323,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,EGINA,"Crude Oil",1917489,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,EGINA,"Crude Oil",1994991,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,EGINA,"Crude Oil",1877766,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,EGINA,"Crude Oil",2119176,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,EGINA,"Crude Oil",1859576,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,EGINA,"Crude Oil",1850074,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,EGINA,"Crude Oil",1731560,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,EGINA,"Crude Oil",1597919,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,EGINA,"Crude Oil",1689231,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,"OYO / OBODO","Crude Oil",504401,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,"OYO / OBODO","Crude Oil",200390,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,"OYO / OBODO","Crude Oil",269271,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,"OYO / OBODO","Crude Oil",154564,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,"OYO / OBODO","Crude Oil",273828,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,"OYO / OBODO","Crude Oil",157664,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,"OYO / OBODO","Crude Oil",266239,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,"OYO / OBODO","Crude Oil",124136,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,"OYO / OBODO","Crude Oil",73301,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,"OYO / OBODO","Crude Oil",250322,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,"OYO / OBODO","Crude Oil",34573,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,"OYO / OBODO","Crude Oil",25972,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,ABO,"Crude Oil",381476,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,ABO,"Crude Oil",340525,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,ABO,"Crude Oil",373638,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,ABO,"Crude Oil",356982,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,ABO,"Crude Oil",368695,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,ABO,"Crude Oil",338918,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,ABO,"Crude Oil",364306,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,ABO,"Crude Oil",379200,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,ABO,"Crude Oil",365377,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,ABO,"Crude Oil",380296,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,ABO,"Crude Oil",340317,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,ABO,"Crude Oil",338097,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,PENNINGTON,"Crude Oil",425878,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,PENNINGTON,"Crude Oil",408590,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,PENNINGTON,"Crude Oil",126576,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,PENNINGTON,"Crude Oil",425649,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,PENNINGTON,"Crude Oil",417266,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,PENNINGTON,"Crude Oil",213225,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,PENNINGTON,"Crude Oil",467338,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,PENNINGTON,"Crude Oil",493049,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,PENNINGTON,"Crude Oil",289500,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,PENNINGTON,"Crude Oil",364190,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,PENNINGTON,"Crude Oil",442063,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,PENNINGTON,"Crude Oil",131761,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,"UGO OCHA (JONES CREEK)","Crude Oil",466560,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,"UGO OCHA (JONES CREEK)","Crude Oil",475847,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,"UGO OCHA (JONES CREEK)","Crude Oil",656192,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,"UGO OCHA (JONES CREEK)","Crude Oil",481783,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,"UGO OCHA (JONES CREEK)","Crude Oil",866982,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,"UGO OCHA (JONES CREEK)","Crude Oil",967395,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,"UGO OCHA (JONES CREEK)","Crude Oil",895330,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,"UGO OCHA (JONES CREEK)","Crude Oil",865518,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,"UGO OCHA (JONES CREEK)","Crude Oil",835070,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,"UGO OCHA (JONES CREEK)","Crude Oil",939477,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,"UGO OCHA (JONES CREEK)","Crude Oil",988679,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,"UGO OCHA (JONES CREEK)","Crude Oil",1175701,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,"SEA EAGLE (EA)","Crude Oil",519168,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,"SEA EAGLE (EA)","Crude Oil",469055,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,"SEA EAGLE (EA)","Crude Oil",520495,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,"SEA EAGLE (EA)","Crude Oil",471272,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,"SEA EAGLE (EA)","Crude Oil",500602,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,"SEA EAGLE (EA)","Crude Oil",476606,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,"SEA EAGLE (EA)","Crude Oil",487140,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,"SEA EAGLE (EA)","Crude Oil",466163,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,"SEA EAGLE (EA)","Crude Oil",444477,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,"SEA EAGLE (EA)","Crude Oil",631737,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,"SEA EAGLE (EA)","Crude Oil",394454,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,"SEA EAGLE (EA)","Crude Oil",359977,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,"ANYALA MADU (CJ Blend)","Crude Oil",1534466,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,"ANYALA MADU (CJ Blend)","Crude Oil",897054,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,"ANYALA MADU (CJ Blend)","Crude Oil",1561722,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,"ANYALA MADU (CJ Blend)","Crude Oil",1472628,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,"ANYALA MADU (CJ Blend)","Crude Oil",1178584,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,"ANYALA MADU (CJ Blend)","Crude Oil",1586958,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,"ANYALA MADU (CJ Blend)","Crude Oil",1480409,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,"ANYALA MADU (CJ Blend)","Crude Oil",1631658,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,"ANYALA MADU (CJ Blend)","Crude Oil",1251366,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,"ANYALA MADU (CJ Blend)","Crude Oil",1595384,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,"ANYALA MADU (CJ Blend)","Crude Oil",1266216,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,"ANYALA MADU (CJ Blend)","Crude Oil",1611862,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,NEMBE,"Crude Oil",966058,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,NEMBE,"Crude Oil",1080581,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,NEMBE,"Crude Oil",1145283,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,NEMBE,"Crude Oil",881323,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,NEMBE,"Crude Oil",1268028,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,NEMBE,"Crude Oil",1161601,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,NEMBE,"Crude Oil",1189629,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,NEMBE,"Crude Oil",1197272,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,NEMBE,"Crude Oil",1084787,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,NEMBE,"Crude Oil",955906,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,NEMBE,"Crude Oil",1212574,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,NEMBE,"Crude Oil",1179722,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,UTAPATE,"Crude Oil",1299239,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,UTAPATE,"Crude Oil",1189559,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,UTAPATE,"Crude Oil",1226151,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,UTAPATE,"Crude Oil",1155357,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,UTAPATE,"Crude Oil",1297440,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,UTAPATE,"Crude Oil",1250688,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,UTAPATE,"Crude Oil",1197164,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,UTAPATE,"Crude Oil",1305569,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,UTAPATE,"Crude Oil",1071004,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,UTAPATE,"Crude Oil",1421550,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,UTAPATE,"Crude Oil",1490367,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,UTAPATE,"Crude Oil",1522716,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,AGBAMI,Condensate,2187786,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,AGBAMI,Condensate,2332635,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,AGBAMI,Condensate,2519840,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,AGBAMI,Condensate,2443595,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,AGBAMI,Condensate,2627017,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,AGBAMI,Condensate,2242270,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,AGBAMI,Condensate,2516272,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,AGBAMI,Condensate,2565335,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,AGBAMI,Condensate,2343546,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,AGBAMI,Condensate,2458164,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,AGBAMI,Condensate,1472570,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,AGBAMI,Condensate,362617,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-01-01,AKPO,Condensate,1809868,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-02-01,AKPO,Condensate,1589595,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-03-01,AKPO,Condensate,1761716,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-04-01,AKPO,Condensate,1535388,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-05-01,AKPO,Condensate,1653239,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-06-01,AKPO,Condensate,1393175,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-07-01,AKPO,Condensate,1565279,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-08-01,AKPO,Condensate,1440640,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-09-01,AKPO,Condensate,1635293,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-10-01,AKPO,Condensate,1688515,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,AKPO,Condensate,1277166,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,AKPO,Condensate,1530631,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-11-01,AJAPA,Condensate,31857,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
+2025-12-01,AJAPA,Condensate,50163,barrels,"NUPRC Crude Oil and Condensate Production - 2025",reported
